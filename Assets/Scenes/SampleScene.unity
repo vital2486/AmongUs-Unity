@@ -2100,6 +2100,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   MouseControlButton: {fileID: 1899748833}
   KeyboardMouseControlButton: {fileID: 455419792}
+  animator: {fileID: 1061319563}
 --- !u!95 &1061319563
 Animator:
   serializedVersion: 4

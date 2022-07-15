@@ -9,6 +9,7 @@ public class SettingsUI : MonoBehaviour
     private Button MouseControlButton;
     [SerializeField]
     private Button KeyboardMouseControlButton;
+    [SerializeField]
     private Animator animator;
 
     private void awake()
